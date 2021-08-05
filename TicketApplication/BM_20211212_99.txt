@@ -1,0 +1,15 @@
+           
+Pnr : BM_20211212_99      
+Train no : 1004    
+Train Name : Udyan Express          
+From : Bangalore            
+To : Mumbai   
+Travel Date : 20211212
+
+Passengers :               
+Name       Age    Gender      Fare
+              Freddy        80         M     900.0
+                 Kid         4         F     750.0
+              Rasika        45         F    1125.0
+              Sumedh        22         M    1500.0
+Total Price :4275.0

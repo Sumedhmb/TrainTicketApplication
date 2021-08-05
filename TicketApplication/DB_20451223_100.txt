@@ -1,0 +1,13 @@
+           
+Pnr : DB_20451223_100      
+Train no : 1002    
+Train Name : Shatabdi Express          
+From : Delhi            
+To : Bangalore   
+Travel Date : 23/12/2045
+
+Passengers :               
+Name       Age    Gender     Fare
+                 Sum        24         F    1875.0
+
+Total Price :1875.0

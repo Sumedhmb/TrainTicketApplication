@@ -1,0 +1,15 @@
+           
+Pnr : BM_20220912_99      
+Train no : 1004    
+Train Name : Udyan Express          
+From : Bangalore            
+To : Mumbai   
+Travel Date : 20220912
+
+Passengers :               
+Name       Age    Gender      Fare
+              Freddy        70         M     900.0
+                 kid         4         M     750.0
+              Rasika        30         F    1125.0
+              Sumedh        22         M    1500.0
+Total Price :4275.0
